@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNugetGithub", "CustomNugetGithub\CustomNugetGithub.csproj", "{65427057-38E9-41E6-8B7F-54A0C72F448F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLib", "DemoLib\DemoLib.csproj", "{55697D88-9ECD-45A4-BB2C-34C37B1F337F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65427057-38E9-41E6-8B7F-54A0C72F448F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65427057-38E9-41E6-8B7F-54A0C72F448F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65427057-38E9-41E6-8B7F-54A0C72F448F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65427057-38E9-41E6-8B7F-54A0C72F448F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55697D88-9ECD-45A4-BB2C-34C37B1F337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55697D88-9ECD-45A4-BB2C-34C37B1F337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55697D88-9ECD-45A4-BB2C-34C37B1F337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55697D88-9ECD-45A4-BB2C-34C37B1F337F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
